@@ -1,2 +1,2 @@
 # Sydney-Data-Project
-Fresh data progject
+Fresh data project
