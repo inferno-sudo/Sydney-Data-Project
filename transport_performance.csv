@@ -1,0 +1,35 @@
+066001 METROPOLIS CENTRAL STATION
+"Commenced: 1902"
+"Last Record: 2024"
+"Latitude:   40.71 Degrees North"
+"Longitude:  74.01 Degrees West"
+"Elevation:      12 m"
+"State: NY"
+
+"Statistic Element","January","February","March","April","May","June","July","August","September","October","November","December","Annual","Number of Years","Start Year","End Year"
+"Average daily passengers for years 1902 to 2024 ",12000,11850,13000,14200,15050,16000,15800,15500,14750,14000,13200,12500,14150,123,1902,2024
+"Maximum daily passengers for years 1902 to 2024 ",25000,24000,26000,27500,28500,30000,29500,29000,28000,27000,26000,25500,30000,123,1902,2024
+"Date of maximum daily passengers for years 1902 to 2024 ","15 Jan 2019","12 Feb 2020","25 Mar 2018","10 Apr 2017","05 May 2015","20 Jun 2019","15 Jul 2021","18 Aug 2016","22 Sep 2014","30 Oct 2013","17 Nov 2011","05 Dec 2012","20 Jun 2019",N/A,1902,2024
+"Minimum daily passengers for years 1902 to 2024 ",3000,2900,3100,3200,3400,3600,3550,3500,3300,3200,3100,3050,3400,123,1902,2024
+"Date of minimum daily passengers for years 1902 to 2024 ","02 Jan 1910","10 Feb 1920","18 Mar 1935","25 Apr 1940","12 May 1950","07 Jun 1965","03 Jul 1970","09 Aug 1980","15 Sep 1995","01 Oct 2000","11 Nov 2010","20 Dec 2020","03 Jul 1970",N/A,1902,2024
+"Decile 1 daily passengers for years 1902 to 2024 ",4000,3900,4100,4200,4300,4500,4400,4300,4200,4100,4000,3950, ,123,1902,2024
+"Decile 9 daily passengers for years 1902 to 2024 ",20000,19500,21000,22000,23000,24000,23500,23000,22500,22000,21500,21000, ,123,1902,2024
+"Mean number of days with passengers >= 20000 for years 1902 to 2024 ",5,4,6,7,9,10,10,9,7,6,5,5,83,123,1902,2024
+"Mean number of days with passengers >= 25000 for years 1902 to 2024 ",1,0,1,2,3,4,4,3,2,1,1,1,22,123,1902,2024
+"Mean number of days with passengers <= 5000 for years 1902 to 2024 ",3,2,3,2,1,1,1,1,2,2,3,3,24,123,1902,2024
+"Average monthly trains arriving for years 1902 to 2024 ",120,118,125,130,140,145,150,148,138,130,125,122,136,123,1902,2024
+"Maximum trains in a day for years 1902 to 2024 ",8,7,9,10,11,12,12,12,11,10,9,9,12,123,1902,2024
+"Date of maximum trains for years 1902 to 2024 ","10 Jan 2015","05 Feb 2018","22 Mar 2016","18 Apr 2019","12 May 2020","25 Jun 2017","20 Jul 2021","14 Aug 2019","30 Sep 2018","22 Oct 2014","05 Nov 2012","18 Dec 2016","20 Jul 2021",N/A,1902,2024
+"Minimum trains in a day for years 1902 to 2024 ",2,2,3,3,4,4,4,4,3,3,2,2,3,123,1902,2024
+"Date of minimum trains for years 1902 to 2024 ","03 Jan 1920","12 Feb 1930","08 Mar 1940","20 Apr 1950","07 May 1960","15 Jun 1970","10 Jul 1980","05 Aug 1990","18 Sep 2000","02 Oct 2010","11 Nov 1925","25 Dec 1935","15 Jun 1970",N/A,1902,2024
+"Average monthly freight trains for years 1902 to 2024 ",20,18,22,25,30,32,35,34,28,25,22,20,26,123,1902,2024
+"Maximum freight trains per day for years 1902 to 2024 ",5,5,6,6,7,7,8,8,7,6,5,5,8,123,1902,2024
+"Date of maximum freight trains per day for years 1902 to 2024 ","14 Jan 2010","11 Feb 2012","20 Mar 2015","09 Apr 2016","18 May 2018","21 Jun 2017","16 Jul 2020","12 Aug 2019","28 Sep 2016","06 Oct 2013","19 Nov 2011","23 Dec 2014","16 Jul 2020",N/A,1902,2024
+"Minimum freight trains per day for years 1902 to 2024 ",0,0,1,1,1,1,1,1,1,1,0,0,0,123,1902,2024
+"Date of minimum freight trains per day for years 1902 to 2024 ","01 Jan 1950","05 Feb 1960","02 Mar 1970","10 Apr 1980","08 May 1990","12 Jun 2000","07 Jul 2010","03 Aug 2020","15 Sep 1965","06 Oct 1975","09 Nov 1985","20 Dec 1995","01 Jan 1950",N/A,1902,2024
+"Mean monthly bus passengers for years 1950 to 2024 ",5000,4800,5100,5300,5500,5800,5700,5600,5400,5200,5000,4900,5316,75,1950,2024
+"Maximum bus passengers per day for years 1950 to 2024 ",12000,11500,12500,13000,14000,15000,14800,14500,13800,13000,12500,12000,15000,75,1950,2024
+"Date of maximum bus passengers for years 1950 to 2024 ","12 Jan 2018","07 Feb 2020","15 Mar 2019","11 Apr 2017","05 May 2016","19 Jun 2021","14 Jul 2019","20 Aug 2020","30 Sep 2018","28 Oct 2015","18 Nov 2013","22 Dec 2019","19 Jun 2021",N/A,1950,2024
+"Minimum bus passengers per day for years 1950 to 2024 ",800,750,900,950,1000,1100,1050,1020,980,900,850,800,750,75,1950,2024
+"Date of minimum bus passengers for years 1950 to 2024 ","05 Jan 1960","02 Feb 1970","08 Mar 1980","15 Apr 1990","12 May 2000","18 Jun 2010","14 Jul 2020","10 Aug 2005","03 Sep 1995","06 Oct 1985","09 Nov 1975","12 Dec 1965","14 Jul 2020",N/A,1950,2024
+"Average monthly tram passengers for years 1902 to 2024 ",2500,2400,2600,2700,2800,3000,2950,2900,2750,2650,2550,2500,2660,123,1902,2024
